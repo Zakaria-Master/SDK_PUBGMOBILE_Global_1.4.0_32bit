@@ -28,7 +28,7 @@ namespace offsets
 	DWORD HPMax = 0x108;
 	DWORD FuelMax = 0x120;
 	DWORD Fuel = 0x124;
-	DWORD PoseState = 0xd54;
+	DWORD PoseState = 0xe00;
 	DWORD ScopeFov = 0x1030;
 	DWORD bIsGunADS = 0xa89;
 }
