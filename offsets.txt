@@ -1,0 +1,34 @@
+namespace offsets
+{
+
+	DWORD uWorld = 0x504208cc; //viewWordBase -4640580
+	DWORD gNames = 0x50417138; //viewWordBase -4679384
+
+	DWORD PersistentLevel = 0x20;
+	DWORD NetDriver = 0x24;
+	DWORD ServerConnection = 0x60;
+	DWORD PlayerController = 0x20;
+	DWORD AcknowledgedPawn = 0x320;
+	DWORD PlayerCameraManager = 0x330;
+	DWORD CameraCache = 0x340;
+	DWORD Mesh = 0x310;
+	DWORD RootComponent = 0x140;
+	DWORD ShootWeaponEntity = 0xcac;
+	DWORD AccessoriesVRecoilFactor = 0x72c;
+	DWORD pose_Offset = 336;
+	DWORD bDead = 0x954;
+	DWORD Nation = 0x644;
+	DWORD PlayerName = 0x638;
+	DWORD TeamID = 0x660;
+	DWORD CurrentStates = 0x910;
+	DWORD Health = 0x918;
+	DWORD HealthMax = 0x91c;
+	DWORD isboot = 692;
+	DWORD HP = 0x10c;
+	DWORD HPMax = 0x108;
+	DWORD FuelMax = 0x120;
+	DWORD Fuel = 0x124;
+	DWORD PoseState = 0xd54;
+	DWORD ScopeFov = 0x1030;
+	DWORD bIsGunADS = 0xa89;
+}
