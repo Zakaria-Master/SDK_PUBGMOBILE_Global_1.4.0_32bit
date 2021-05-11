@@ -8,7 +8,7 @@ namespace offsets
 	DWORD NetDriver = 0x24;
 	DWORD ServerConnection = 0x60;
 	DWORD PlayerController = 0x20;
-	DWORD AcknowledgedPawn = 0x320;
+	DWORD AcknowledgedPawn = 0x320; //localplayer
 	DWORD PlayerCameraManager = 0x330;
 	DWORD CameraCache = 0x340;
 	DWORD Mesh = 0x310;
