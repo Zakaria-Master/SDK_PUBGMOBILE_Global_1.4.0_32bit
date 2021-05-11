@@ -26,6 +26,7 @@ namespace offsets
 	DWORD Health = 0x918;
 	DWORD HealthMax = 0x91c;
 	DWORD isbot = 0x6d8; 
+	DWORD VehicleCommon = 0x654;
 	DWORD HP = 0x10c;
 	DWORD HPMax = 0x108;
 	DWORD FuelMax = 0x120;
