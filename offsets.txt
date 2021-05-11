@@ -25,7 +25,7 @@ namespace offsets
 	DWORD CurrentStates = 0x910;
 	DWORD Health = 0x918;
 	DWORD HealthMax = 0x91c;
-	DWORD isboot = 692; // Not tested
+	DWORD isbot = 0x6d8; 
 	DWORD HP = 0x10c;
 	DWORD HPMax = 0x108;
 	DWORD FuelMax = 0x120;
