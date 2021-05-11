@@ -12,8 +12,9 @@ namespace offsets
 	DWORD PlayerCameraManager = 0x330;
 	DWORD CameraCache = 0x340;
 	DWORD Mesh = 0x310;
+	DWORD CachedComponentSpaceTransforms= 0x700;
 	DWORD RootComponent = 0x140;
-	DWORD CurrWeapon = 0x16f4
+	DWORD CurrWeapon = 0x16f4;
 	DWORD ShootWeaponEntity = 0xcac;
 	DWORD AccessoriesVRecoilFactor = 0x72c;
 	DWORD pose_Offset = 336;
