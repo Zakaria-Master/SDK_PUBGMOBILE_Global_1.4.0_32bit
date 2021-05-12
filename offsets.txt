@@ -17,7 +17,7 @@ namespace offsets
 	DWORD CurrWeapon = 0x16f4;
 	DWORD ShootWeaponEntity = 0xcac;
 	DWORD AccessoriesVRecoilFactor = 0x72c;
-	DWORD pose_Offset = 336;
+	DWORD RelativeLocation= 0x118; // Location or origin
 	DWORD bDead = 0x954;
 	DWORD Nation = 0x644;
 	DWORD PlayerName = 0x638;
